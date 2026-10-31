@@ -1,0 +1,33 @@
+
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "AltiMath",
+    "documentationUrl": "https://www.altimath.com/",
+    "logoUrl": "https://www.altimath.com/favicon.ico"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:altimath.com:content:mathematics",
+      "displayName": "AltiMath | Les Maths en Toute Simplicité",
+      "type": "text/html",
+      "url": "https://www.altimath.com/",
+      "description": "French-language mathematics educational resources for students in Morocco, including lessons, summaries, worked examples, corrected exercises and exam preparation.",
+      "tags": [
+        "mathematics",
+        "education",
+        "Morocco",
+        "French",
+        "college",
+        "high-school",
+        "lessons",
+        "corrected-exercises",
+        "exam-preparation"
+      ],
+      "representativeQueries": [
+        "Find mathematics lessons and corrected exercises on AltiMath.",
+        "Find French mathematics learning resources for Moroccan students."
+      ]
+    }
+  ]
+}
