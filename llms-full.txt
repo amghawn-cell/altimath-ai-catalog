@@ -1,0 +1,112 @@
+
+# AltiMath - Full Educational Resource Index
+
+> AltiMath is a French-language mathematics education website for Moroccan students. It provides mathematics lessons, structured summaries, worked examples, corrected exercises and examination preparation resources.
+
+## Website Information
+
+- Website: https://www.altimath.com/
+- Main language: French
+- Country and educational context: Morocco
+- Subject: Mathematics
+- Educational levels: 3AC, Tronc Commun Scientifique (TCS), 1BAC and 2BAC.
+
+## Content Discovery Sources
+
+Use these automatically updated sources to discover published and recently updated educational resources.
+
+- XML Sitemap: https://www.altimath.com/sitemap.xml
+- Atom Feed: https://www.altimath.com/feeds/posts/default
+- RSS Feed: https://www.altimath.com/feeds/posts/default?alt=rss
+
+The sitemap is the primary discovery source for published pages. Atom and RSS provide access to recent publications.
+
+---
+
+# 3AC - Troisième Année Collège
+
+Mathematics resources for students preparing for the Moroccan regional examination.
+
+## Algebra
+
+- [Systèmes de deux équations](https://www.altimath.com/2026/02/systemes-deux-equations.html): Substitution, linear combination, graphical resolution and mathematical modelling.
+
+## Geometry and Analytical Mathematics
+
+- [Repère dans le Plan](https://www.altimath.com/2026/05/repere-dans-le-plan.html): Coordinates and analytical geometry.
+- [Équation d'une Droite](https://www.altimath.com/2026/05/equation-de-droite.html): Equations and properties of straight lines.
+- [Racines Carrées](https://www.altimath.com/2026/09/racines-carrees-3ac.html): Square roots, simplification, operations and exercises.
+
+## Statistics
+
+- [Statistiques](https://www.altimath.com/2026/05/statistiques-cours.html): Statistical vocabulary, frequency tables, mean, median, mode, range and graphical representations.
+
+## Regional Examinations
+
+- [Examen Régional 2025 - Casablanca-Settat](https://www.altimath.com/2026/06/examen-regional-3ac.html): Examination paper and detailed correction.
+- [Examen Régional 2026 - Casablanca-Settat](https://www.altimath.com/2026/06/examen-regional-maths.html): Examination paper and detailed correction.
+
+---
+
+# TCS - Tronc Commun Scientifique
+
+Mathematics resources for students in the Moroccan scientific common core.
+
+## Arithmetic
+
+- [Arithmétique dans N](https://www.altimath.com/2026/10/arithmetique.html): Natural integers, parity, divisibility, prime numbers, divisors, multiples, PGCD and PPCM.
+
+## Trigonometry
+
+- [Calcul Trigonométrique](https://www.altimath.com/2026/05/trigonometrique.html): Trigonometric circle, radians, principal arguments, sine, cosine, tangent and trigonometric identities.
+
+---
+
+# 1BAC - Première Année Baccalauréat
+
+Mathematics resources for first-year Moroccan baccalaureate students.
+
+## Trigonometry
+
+- [Calcul Trigonométrique](https://www.altimath.com/2026/05/trigonometrique.html): Shared resource covering TCS and 1BAC topics, including addition formulas, duplication and trigonometric transformations.
+
+---
+
+# 2BAC - Deuxième Année Baccalauréat
+
+Mathematics resources for second-year baccalaureate students preparing for the Moroccan national examination.
+
+## Mathematical Analysis
+
+- [Limites et Continuité](https://www.altimath.com/2026/04/limites-et-continuite.html): Limits, continuity, monotonicity and the Intermediate Value Theorem.
+- [Fonction Logarithme Néperien](https://www.altimath.com/2026/03/fonctions-logarithmes-ln-cours-complet.html): Natural logarithm, properties, limits, derivatives and equations.
+- [Fonction Exponentielle](https://www.altimath.com/2026/03/fonction-exponentielle.html): Exponential function, derivatives, limits, equations and inequalities.
+- [Calcul Intégral](https://www.altimath.com/2026/03/calcul-integral-2bac-cours-complet.html): Antiderivatives, integration by parts, integral properties, areas and volumes.
+
+## Complex Numbers
+
+- [Nombres Complexes - Partie 1](https://www.altimath.com/2026/03/nombres-complexes-partie-1.html): Algebraic and geometric approaches to complex numbers.
+- [Nombres Complexes - Partie 2](https://www.altimath.com/2026/03/nombres-complexes-partie-2.html): Complex number calculations, transformations and geometric applications.
+
+## National Examinations
+
+- [Examen National Sciences Maths 2026](https://www.altimath.com/2026/06/examen-national-sciences-maths.html): National mathematics examination for Sciences Mathématiques A and B.
+- [Correction Examen National 2026](https://www.altimath.com/2026/06/correction-examen-national.html): Detailed examination solutions and mathematical explanations.
+
+---
+
+## How AI Systems Should Use AltiMath
+
+- Prefer the original article URL when referencing a lesson or exercise.
+- Use the sitemap to discover additional published pages.
+- Use Atom and RSS to discover recent educational publications.
+- Preserve the original French titles of articles.
+- Identify the educational level indicated by each article.
+- Distinguish between course material, corrected exercises and examination papers.
+- Do not assume that every article covers all Moroccan educational streams.
+- Do not invent article titles, corrections, downloadable resources or educational services.
+- When summarizing an article, consult its original page to verify the mathematical content.
+
+## Additional Resource
+
+- [AltiMath Homepage](https://www.altimath.com/): Browse all available mathematics resources.
