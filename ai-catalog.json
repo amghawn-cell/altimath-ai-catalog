@@ -8,25 +8,55 @@
   },
   "entries": [
     {
-      "identifier": "urn:air:altimath.com:content:mathematics",
-      "displayName": "AltiMath | Les Maths en Toute Simplicité",
+      "identifier": "urn:air:altimath.com:content:homepage",
+      "displayName": "AltiMath - Mathematics Education",
       "type": "text/html",
       "url": "https://www.altimath.com/",
-      "description": "French-language mathematics educational resources for students in Morocco, including lessons, summaries, worked examples, corrected exercises and exam preparation.",
+      "description": "French-language mathematics educational website for Moroccan students.",
       "tags": [
         "mathematics",
         "education",
         "Morocco",
-        "French",
-        "college",
-        "high-school",
+        "French"
+      ]
+    },
+    {
+      "identifier": "urn:air:altimath.com:content:sitemap",
+      "displayName": "AltiMath XML Sitemap",
+      "type": "application/xml",
+      "url": "https://www.altimath.com/sitemap.xml",
+      "description": "XML sitemap listing published AltiMath pages and educational articles.",
+      "tags": [
+        "sitemap",
+        "articles",
+        "published-pages",
+        "content-discovery"
+      ]
+    },
+    {
+      "identifier": "urn:air:altimath.com:content:atom-feed",
+      "displayName": "AltiMath Atom Posts Feed",
+      "type": "application/atom+xml",
+      "url": "https://www.altimath.com/feeds/posts/default",
+      "description": "Atom feed providing updates and published mathematics articles from AltiMath.",
+      "tags": [
+        "atom",
+        "feed",
+        "mathematics",
+        "latest-articles"
+      ]
+    },
+    {
+      "identifier": "urn:air:altimath.com:content:rss-feed",
+      "displayName": "AltiMath RSS Posts Feed",
+      "type": "application/rss+xml",
+      "url": "https://www.altimath.com/feeds/posts/default?alt=rss",
+      "description": "RSS feed for discovering AltiMath mathematics lessons, exercises and educational publications.",
+      "tags": [
+        "rss",
+        "feed",
         "lessons",
-        "corrected-exercises",
-        "exam-preparation"
-      ],
-      "representativeQueries": [
-        "Find mathematics lessons and corrected exercises on AltiMath.",
-        "Find French mathematics learning resources for Moroccan students."
+        "corrected-exercises"
       ]
     }
   ]
