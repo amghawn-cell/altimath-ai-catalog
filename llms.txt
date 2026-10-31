@@ -1,0 +1,34 @@
+
+# AltiMath
+
+> AltiMath is a French-language mathematics education website dedicated to helping students in Morocco learn mathematics through structured lessons, summaries, worked examples, corrected exercises and examination preparation.
+
+## About AltiMath
+
+AltiMath publishes educational mathematics resources for Moroccan students. Its content is primarily written in French and covers mathematics topics for middle-school and high-school levels.
+
+The website aims to provide clear explanations, practical examples and exercises with corrections.
+
+## Main Website
+
+- [AltiMath Homepage](https://www.altimath.com/): Main website and access to all educational resources.
+
+## Published Educational Content
+
+- [XML Sitemap](https://www.altimath.com/sitemap.xml): Discover published articles and website pages.
+- [Atom Feed](https://www.altimath.com/feeds/posts/default): Discover recent educational publications.
+- [RSS Feed](https://www.altimath.com/feeds/posts/default?alt=rss): Access recent mathematics articles and updates.
+
+## Content Topics
+
+- Mathematics lessons and explanations.
+- Mathematics summaries and revision resources.
+- Worked examples and corrected exercises.
+- Mathematics examination preparation.
+- Mathematics education for Moroccan middle-school and high-school students.
+
+## Language and Audience
+
+- Main language: French.
+- Educational context: Morocco.
+- Intended audience: Middle-school and high-school students.
