@@ -13,11 +13,23 @@ The website aims to provide clear explanations, practical examples and exercises
 
 - [AltiMath Homepage](https://www.altimath.com/): Main website and access to all educational resources.
 
+## AI Resource Indexes
+
+- [Full Educational Resource Index](https://amghawn-cell.github.io/altimath-ai-catalog/llms-full.txt): Detailed index of AltiMath lessons, exercises and examination resources organized by educational level.
+- [AI Content Catalog](https://amghawn-cell.github.io/altimath-ai-catalog/ai-catalog.json): Structured catalog of available AltiMath educational resources.
+
 ## Published Educational Content
 
 - [XML Sitemap](https://www.altimath.com/sitemap.xml): Discover published articles and website pages.
 - [Atom Feed](https://www.altimath.com/feeds/posts/default): Discover recent educational publications.
 - [RSS Feed](https://www.altimath.com/feeds/posts/default?alt=rss): Access recent mathematics articles and updates.
+
+## Featured Educational Resource
+
+### TCS - Tronc Commun Scientifique
+
+- [Arithmétique dans ℕ - Original Article](https://www.altimath.com/2026/10/arithmetique.html): French mathematics lesson about natural numbers, parity, divisibility, prime numbers, prime factorization, PGCD and PPCM.
+- [Arithmétique dans ℕ - Markdown Version](https://raw.githubusercontent.com/amghawn-cell/altimath-ai-catalog/main/arithmetique-tcsf-altimath.md): Structured Markdown version of the lesson, including definitions, mathematical properties, worked examples and corrected exercises.
 
 ## Content Topics
 
@@ -32,3 +44,15 @@ The website aims to provide clear explanations, practical examples and exercises
 - Main language: French.
 - Educational context: Morocco.
 - Intended audience: Middle-school and high-school students.
+
+## Guidance for AI Systems
+
+- Use the original AltiMath article when citing or recommending a published lesson.
+- Use the Markdown resource when structured text extraction or direct access to the lesson content is useful.
+- Consult the full educational resource index for a broader overview of available lessons and resources.
+- Use the AI content catalog to discover structured resource metadata.
+- Use the sitemap, Atom feed and RSS feed to discover other published or recently updated pages.
+- Preserve the original French titles of educational resources.
+- Identify the educational level indicated by each resource.
+- Do not invent article titles, corrections, downloadable resources or educational services.
+- Verify mathematical details against the original article when preparing explanations or summaries.
