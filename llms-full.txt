@@ -54,7 +54,8 @@ Mathematics resources for students in the Moroccan scientific common core.
 
 ## Arithmetic
 
-- [Arithmétique dans N](https://www.altimath.com/2026/10/arithmetique.html): Natural integers, parity, divisibility, prime numbers, divisors, multiples, PGCD and PPCM.
+- [Arithmétique dans ℕ - Article original](https://www.altimath.com/2026/10/arithmetique.html): Natural integers, parity, divisibility, prime numbers, divisors, multiples, PGCD and PPCM.
+- [Arithmétique dans ℕ - Version Markdown](https://raw.githubusercontent.com/amghawn-cell/altimath-ai-catalog/main/arithmetique-tcsf-altimath.md): Structured Markdown version of the lesson, including definitions, mathematical properties, worked examples, corrected exercises and an examination practice paper.
 
 ## Trigonometry
 
@@ -106,6 +107,7 @@ Mathematics resources for second-year baccalaureate students preparing for the M
 - Do not assume that every article covers all Moroccan educational streams.
 - Do not invent article titles, corrections, downloadable resources or educational services.
 - When summarizing an article, consult its original page to verify the mathematical content.
+- Use the Markdown version when structured text extraction or direct access to the lesson content is useful.
 
 ## Additional Resource
 
