@@ -58,6 +58,23 @@
         "lessons",
         "corrected-exercises"
       ]
+    },
+    {
+      "identifier": "urn:air:altimath.com:content:arithmetique-tcsf",
+      "displayName": "Arithmétique dans ℕ : Cours et Exercices Corrigés (TCSF)",
+      "type": "text/markdown",
+      "url": "https://raw.githubusercontent.com/amghawn-cell/altimath-ai-catalog/main/arithmetique-tcsf-altimath.md",
+      "description": "Structured French mathematics lesson for Moroccan Tronc Commun Scientifique students, covering parity, divisibility, prime numbers, prime factorization, GCD, LCM, worked examples and corrected exercises.",
+      "tags": [
+        "mathematics",
+        "arithmetic",
+        "natural-numbers",
+        "TCSF",
+        "Morocco",
+        "French",
+        "course",
+        "corrected-exercises"
+      ]
     }
   ]
 }
